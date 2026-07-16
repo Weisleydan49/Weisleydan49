@@ -80,12 +80,12 @@ A behavioural-science web project built with Castro, turning research ideas into
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almondweisley&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=almondweisley&v=1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=almondweisley&theme=tokyonight&hide_border=false" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almondweisley&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almondweisley&v=1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </p>
 
 <!-- Live contribution activity graph -->
