@@ -77,26 +77,13 @@ A behavioural-science web project built with Castro, turning research ideas into
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almondweisley&v=1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=almondweisley&theme=tokyonight&hide_border=false" alt="streak" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almondweisley&v=1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
-</p>
+![Stats](./profile/stats.svg)
 
-<!-- Live contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almondweisley&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</p>
+![Top Languages](./profile/top-langs.svg)
 
-<!-- Profile view counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=almondweisley&style=for-the-badge&color=02569B&label=Profile+Views" alt="profile views" />
-</p>
-
+![Streak](./profile/streak.svg)
 <!-- Waving footer banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn)
