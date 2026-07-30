@@ -6,24 +6,27 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - ".github/workflows/snake.yml"
+      - ".github/workflows/update-snake.yml"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    timeout-minutes: 5
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             profile/snake.svg
             profile/snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit snake animation
         run: |
