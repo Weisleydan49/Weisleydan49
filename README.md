@@ -1,6 +1,5 @@
 <!-- Waving header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=62)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=78)
 <!-- Animated typing headline -->
 <p align="center">
   <a href="https://github.com/almondweisley">
