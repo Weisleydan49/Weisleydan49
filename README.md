@@ -1,5 +1,5 @@
 <!-- Waving header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=78)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=78" width="100%" alt="Header"/>
 
 <!-- Animated typing headline -->
 <p align="center">
@@ -8,11 +8,9 @@
   </a>
 </p>
 
-![divider](./profile/divider-circuit.svg)
+<img src="./profile/divider-circuit.svg" width="100%" alt=""/>
 
-<p align="center">
-  <img src="./profile/hub-header.svg" alt="Weisley build hub" width="900"/>
-</p>
+<img src="./profile/hub-header.svg" width="100%" alt="Weisley build hub"/>
 
 <p align="center">
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-14b8a6?style=flat-square"/></a>
@@ -21,13 +19,15 @@
   <a href="#-open-to-collaborate-on"><img src="https://img.shields.io/badge/Collaborate-14b8a6?style=flat-square"/></a>
 </p>
 
-<p align="center">
-  <img src="./profile/core-build.svg" alt="What I build" width="290"/>
-  <img src="./profile/core-sharpening.svg" alt="Currently sharpening" width="290"/>
-  <img src="./profile/core-approach.svg" alt="How I work" width="290"/>
-</p>
+<table width="100%">
+<tr>
+<td width="33.33%"><img src="./profile/core-build.svg" width="100%" alt="What I build"/></td>
+<td width="33.33%"><img src="./profile/core-sharpening.svg" width="100%" alt="Currently sharpening"/></td>
+<td width="33.33%"><img src="./profile/core-approach.svg" width="100%" alt="How I work"/></td>
+</tr>
+</table>
 
-![divider](./profile/divider-circuit.svg)
+<img src="./profile/divider-circuit.svg" width="100%" alt=""/>
 
 ## About Me
 
@@ -44,7 +44,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 - Full-stack builds where I own both the app and the API behind it
 - Freelance or contract app work
 
-![divider](./profile/divider.svg)
+<img src="./profile/divider.svg" width="100%" alt=""/>
 
 ## 🌐 Connect with me
 
@@ -53,7 +53,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:weisleyalmond@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._a.l)
 
-![divider](./profile/divider.svg)
+<img src="./profile/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -138,17 +138,21 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 **Also work with:** JavaScript · Java · HTML/CSS
 
-![divider](./profile/divider.svg)
+<img src="./profile/divider.svg" width="100%" alt=""/>
 
 ## Featured Projects
 
-<a href="https://github.com/almondweisley/SAFARI-SALAMA"><img src="./profile/portal-safari.svg" alt="SAFARI-SALAMA" width="300"/></a>
-<a href="https://github.com/almondweisley/SignalGrid"><img src="./profile/portal-signalgrid.svg" alt="SignalGrid" width="300"/></a>
-<a href="https://github.com/almondweisley/Project_Castro"><img src="./profile/portal-castro.svg" alt="Project Castro" width="300"/></a>
+<table width="100%">
+<tr>
+<td width="33.33%"><a href="https://github.com/almondweisley/SAFARI-SALAMA"><img src="./profile/portal-safari.svg" width="100%" alt="SAFARI-SALAMA"/></a></td>
+<td width="33.33%"><a href="https://github.com/almondweisley/SignalGrid"><img src="./profile/portal-signalgrid.svg" width="100%" alt="SignalGrid"/></a></td>
+<td width="33.33%"><a href="https://github.com/almondweisley/Project_Castro"><img src="./profile/portal-castro.svg" width="100%" alt="Project Castro"/></a></td>
+</tr>
+</table>
 
 Full write-ups, stack notes, and repo links → [PROJECTS.md](./PROJECTS.md)
 
-![divider](./profile/divider.svg)
+<img src="./profile/divider.svg" width="100%" alt=""/>
 
 ## GitHub Stats
 
@@ -158,7 +162,15 @@ Full write-ups, stack notes, and repo links → [PROJECTS.md](./PROJECTS.md)
 
 ![Streak](./profile/streak.svg)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almondweisley&theme=react-dark&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="Contribution snake animation" src="./profile/snake.svg" width="100%"/>
+</picture>
+
 <!-- Waving footer banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer"/>
 
 <sub>[<img src="./profile/easter-egg-icon.svg" width="14" height="14" alt="" align="top"/> found something?](./EASTER_EGG.md)</sub>
