@@ -38,27 +38,37 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 ## 🛠️ Tech Stack
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Backend**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Database & Cloud**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-**Deployment**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+<table>
+<tr><td align="center" colspan="3"><b>Mobile</b></td></tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/flutter/54C5F8" width="40" height="40" alt="Flutter"/><br/><sub>Flutter</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/dart/0175C2" width="40" height="40" alt="Dart"/><br/><sub>Dart</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" height="40" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
+</tr>
+<tr><td align="center" colspan="3"><b>Backend</b></td></tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/flask/ffffff" width="40" height="40" alt="Flask"/><br/><sub>Flask</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40" alt="Express"/><br/><sub>Express</sub></td>
+<td></td>
+</tr>
+<tr><td align="center" colspan="3"><b>Database &amp; Cloud</b></td></tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="Postgres"/><br/><sub>Postgres</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="40" height="40" alt="Google Cloud"/><br/><sub>Google Cloud</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
+</tr>
+<tr><td align="center" colspan="3"><b>Deployment</b></td></tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="40" height="40" alt="Vercel"/><br/><sub>Vercel</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render"/><br/><sub>Render</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/><br/><sub>Netlify</sub></td>
+</tr>
+</table>
 
 **Also work with:** JavaScript · Java · HTML/CSS
 
@@ -66,20 +76,11 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 ## 📌 Featured Projects
 
-### 🚌 SAFARI-SALAMA
-A matatu route optimization and safety system for commuters. Maps routes and surfaces safety data so riders can choose better trips.
-**Stack:** Python backend · Flutter frontend · PostgreSQL database
-🔗 [View repo](https://github.com/almondweisley/SAFARI-SALAMA)
+<a href="https://github.com/almondweisley/SAFARI-SALAMA"><img src="./profile/portal-safari.svg" alt="SAFARI-SALAMA" width="300"/></a>
+<a href="https://github.com/almondweisley/SignalGrid"><img src="./profile/portal-signalgrid.svg" alt="SignalGrid" width="300"/></a>
+<a href="https://github.com/almondweisley/Project_Castro"><img src="./profile/portal-castro.svg" alt="Project Castro" width="300"/></a>
 
-### 📱 SignalGrid
-A cross-platform mobile app with a Node API behind it, built for autonomous community incident reporting.
-**Stack:** Flutter · Dart · Node.js + MongoDB
-🔗 [View repo](https://github.com/almondweisley/SignalGrid)
-
-### 🧠 Project Castro
-A behavioural-science web project built with Castro, turning research ideas into a working interface.
-**Stack:** HTML · CSS
-🔗 [View repo](https://github.com/almondweisley/Project_Castro)
+Full write-ups, stack notes, and repo links → [PROJECTS.md](./PROJECTS.md)
 
 ![divider](./profile/divider.svg)
 
@@ -93,3 +94,5 @@ A behavioural-science web project built with Castro, turning research ideas into
 
 <!-- Waving footer banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn)
+
+<sub>[<img src="./profile/easter-egg-icon.svg" width="14" height="14" alt="" align="top"/> found something?](./EASTER_EGG.md)</sub>
