@@ -1,19 +1,23 @@
 <svg width="290" height="180" viewBox="0 0 290 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="cf1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#a626c9"/>
-      <stop offset="50%" stop-color="#3e64ff"/>
-      <stop offset="100%" stop-color="#14b8a6"/>
-    </linearGradient>
+    <pattern id="g1" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1c2333" stroke-width="0.5"/>
+    </pattern>
+    <filter id="glow1" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
-  <rect x="0.5" y="0.5" width="289" height="179" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="0" y="0" width="6" height="180" rx="3" fill="url(#cf1)"/>
+  <rect x="0.5" y="0.5" width="289" height="179" rx="10" fill="#080b12"/>
+  <rect x="0.5" y="0.5" width="289" height="179" rx="10" fill="url(#g1)"/>
+  <rect x="0.5" y="0.5" width="289" height="179" rx="10" fill="none" stroke="#1fe0c4" stroke-width="1" filter="url(#glow1)"/>
+  <rect x="0" y="0" width="5" height="180" rx="2" fill="#1fe0c4" filter="url(#glow1)"/>
   <text x="26" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">What I Build</text>
-  <circle cx="30" cy="62" r="2.5" fill="#14b8a6"/>
+  <circle cx="30" cy="62" r="2.5" fill="#1fe0c4"/>
   <text x="42" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Cross-platform mobile apps</text>
-  <circle cx="30" cy="90" r="2.5" fill="#3e64ff"/>
+  <circle cx="30" cy="90" r="2.5" fill="#4f7dff"/>
   <text x="42" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">REST APIs in FastAPI or Node</text>
-  <circle cx="30" cy="118" r="2.5" fill="#a626c9"/>
+  <circle cx="30" cy="118" r="2.5" fill="#c44bf0"/>
   <text x="42" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">
     <tspan x="42" dy="0">Full ownership: app, API,</tspan>
     <tspan x="42" dy="16">and database</tspan>
