@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![divider](./profile/divider.svg)
+![divider](./profile/divider-circuit.svg)
 
 <p align="center">
   <img src="./profile/hub-header.svg" alt="Weisley build hub" width="900"/>
@@ -27,9 +27,9 @@
   <img src="./profile/core-approach.svg" alt="How I work" width="290"/>
 </p>
 
-![divider](./profile/divider.svg)
+![divider](./profile/divider-circuit.svg)
 
-## 👋 About Me
+## About Me
 
 I build cross-platform apps end to end. Flutter and Dart on the front, Python or Node on the back, Postgres underneath.
 
@@ -37,7 +37,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 - 🌱 Sharpening **FastAPI, SQLAlchemy**
 - 📫 Reach me at **weisleyalmond@outlook.com**
 
-## 🤝 Open to Collaborate On
+## Open to Collaborate On
 
 - Cross-platform mobile apps built in Flutter and Dart
 - Backend APIs with FastAPI or Node.js + Express
@@ -90,6 +90,13 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 <td align="center" width="25%"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="56" height="56" alt="Vercel"/><br/><sub>Vercel</sub></td>
 <td align="center" width="25%"><img src="https://cdn.simpleicons.org/render/46E3B7" width="56" height="56" alt="Render"/><br/><sub>Render</sub></td>
 <td align="center" width="25%"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="56" height="56" alt="Netlify"/><br/><sub>Netlify</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/railway/ffffff" width="56" height="56" alt="Railway"/><br/><sub>Railway</sub></td>
+</tr>
+<tr><td align="center" colspan="4"><b>Tools</b></td></tr>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="56" height="56" alt="Postman"/><br/><sub>Postman</sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
 <td width="25%"></td>
 </tr>
 <tr><td align="center" colspan="4"><b>Cache &amp; Queue</b></td></tr>
@@ -133,7 +140,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 ![divider](./profile/divider.svg)
 
-## 📌 Featured Projects
+## Featured Projects
 
 <a href="https://github.com/almondweisley/SAFARI-SALAMA"><img src="./profile/portal-safari.svg" alt="SAFARI-SALAMA" width="300"/></a>
 <a href="https://github.com/almondweisley/SignalGrid"><img src="./profile/portal-signalgrid.svg" alt="SignalGrid" width="300"/></a>
