@@ -1,0 +1,21 @@
+<svg width="290" height="180" viewBox="0 0 290 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cf3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a626c9"/>
+      <stop offset="50%" stop-color="#3e64ff"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="289" height="179" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0" y="0" width="6" height="180" rx="3" fill="url(#cf3)"/>
+  <text x="26" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">How I Work</text>
+  <circle cx="30" cy="62" r="2.5" fill="#14b8a6"/>
+  <text x="42" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Ship end to end, not one layer</text>
+  <circle cx="30" cy="90" r="2.5" fill="#3e64ff"/>
+  <text x="42" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Reliable infra over trendy infra</text>
+  <circle cx="30" cy="118" r="2.5" fill="#a626c9"/>
+  <text x="42" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">
+    <tspan x="42" dy="0">Clear scope, clear</tspan>
+    <tspan x="42" dy="16">handoff on freelance work</tspan>
+  </text>
+</svg>
