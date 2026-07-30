@@ -10,6 +10,25 @@
 
 ![divider](./profile/divider.svg)
 
+<p align="center">
+  <img src="./profile/hub-header.svg" alt="Weisley build hub" width="900"/>
+</p>
+
+<p align="center">
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-14b8a6?style=flat-square"/></a>
+  <a href="#%EF%B8%8F-tech-stack"><img src="https://img.shields.io/badge/Stack-3e64ff?style=flat-square"/></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-a626c9?style=flat-square"/></a>
+  <a href="#-open-to-collaborate-on"><img src="https://img.shields.io/badge/Collaborate-14b8a6?style=flat-square"/></a>
+</p>
+
+<p align="center">
+  <img src="./profile/core-build.svg" alt="What I build" width="290"/>
+  <img src="./profile/core-sharpening.svg" alt="Currently sharpening" width="290"/>
+  <img src="./profile/core-approach.svg" alt="How I work" width="290"/>
+</p>
+
+![divider](./profile/divider.svg)
+
 ## 👋 About Me
 
 I build cross-platform apps end to end. Flutter and Dart on the front, Python or Node on the back, Postgres underneath.
@@ -38,35 +57,75 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr><td align="center" colspan="3"><b>Mobile</b></td></tr>
+<table width="100%">
+<tr><td align="center" colspan="4"><b>Mobile</b></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/flutter/54C5F8" width="40" height="40" alt="Flutter"/><br/><sub>Flutter</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/dart/0175C2" width="40" height="40" alt="Dart"/><br/><sub>Dart</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="40" height="40" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/flutter/54C5F8" width="56" height="56" alt="Flutter"/><br/><sub>Flutter</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/dart/0175C2" width="56" height="56" alt="Dart"/><br/><sub>Dart</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="56" height="56" alt="Kotlin"/><br/><sub>Kotlin</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/react/54C5F8" width="56" height="56" alt="React Native"/><br/><sub>React Native</sub></td>
 </tr>
-<tr><td align="center" colspan="3"><b>Backend</b></td></tr>
+<tr><td align="center" colspan="4"><b>Backend</b></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/flask/ffffff" width="40" height="40" alt="Flask"/><br/><sub>Flask</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/python/3776AB" width="56" height="56" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/fastapi/009688" width="56" height="56" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/flask/ffffff" width="56" height="56" alt="Flask"/><br/><sub>Flask</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/django/092E20" width="56" height="56" alt="Django"/><br/><sub>Django</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40" alt="Express"/><br/><sub>Express</sub></td>
-<td></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="56" height="56" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/express/ffffff" width="56" height="56" alt="Express"/><br/><sub>Express</sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
 </tr>
-<tr><td align="center" colspan="3"><b>Database &amp; Cloud</b></td></tr>
+<tr><td align="center" colspan="4"><b>Database &amp; Cloud</b></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="Postgres"/><br/><sub>Postgres</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="40" height="40" alt="Google Cloud"/><br/><sub>Google Cloud</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="40" height="40" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="56" height="56" alt="Postgres"/><br/><sub>Postgres</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="56" height="56" alt="Google Cloud"/><br/><sub>Google Cloud</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="56" height="56" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
+<td width="25%"></td>
 </tr>
-<tr><td align="center" colspan="3"><b>Deployment</b></td></tr>
+<tr><td align="center" colspan="4"><b>Deployment</b></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="40" height="40" alt="Vercel"/><br/><sub>Vercel</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render"/><br/><sub>Render</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/><br/><sub>Netlify</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="56" height="56" alt="Vercel"/><br/><sub>Vercel</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/render/46E3B7" width="56" height="56" alt="Render"/><br/><sub>Render</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="56" height="56" alt="Netlify"/><br/><sub>Netlify</sub></td>
+<td width="25%"></td>
+</tr>
+<tr><td align="center" colspan="4"><b>Cache &amp; Queue</b></td></tr>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/redis/FF4438" width="56" height="56" alt="Redis"/><br/><sub>Redis</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="56" height="56" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+<tr><td align="center" colspan="4"><b>Storage</b></td></tr>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/amazons3/569A31" width="56" height="56" alt="AWS S3"/><br/><sub>AWS S3</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="56" height="56" alt="Cloudinary"/><br/><sub>Cloudinary</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/minio/C72E49" width="56" height="56" alt="MinIO"/><br/><sub>MinIO</sub></td>
+<td width="25%"></td>
+</tr>
+<tr><td align="center" colspan="4"><b>Auth</b></td></tr>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" width="56" height="56" alt="JWT"/><br/><sub>JWT / OAuth2</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="56" height="56" alt="Firebase Auth"/><br/><sub>Firebase Auth</sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+<tr><td align="center" colspan="4"><b>Payments</b></td></tr>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="56" height="56" alt="Stripe"/><br/><sub>Stripe</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/paypal/003087" width="56" height="56" alt="PayPal"/><br/><sub>PayPal</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/razorpay/0C2451" width="56" height="56" alt="Razorpay"/><br/><sub>Razorpay</sub></td>
+<td width="25%"></td>
+</tr>
+<tr><td align="center" colspan="4"><b>SMS &amp; Email</b></td></tr>
+<tr>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/twilio/F22F46" width="56" height="56" alt="Twilio"/><br/><sub>Twilio</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/sendgrid/51A9E3" width="56" height="56" alt="SendGrid"/><br/><sub>SendGrid</sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
