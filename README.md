@@ -1,5 +1,6 @@
 <!-- Waving header banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weisley%20Dan%20Ouma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer&descSize=18&descAlignY=78)
+
 <!-- Animated typing headline -->
 <p align="center">
   <a href="https://github.com/almondweisley">
@@ -7,7 +8,7 @@
   </a>
 </p>
 
----
+![divider](./profile/divider.svg)
 
 ## 👋 About Me
 
@@ -15,10 +16,16 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 - 🔭 Currently working on **YelenImport**
 - 🌱 Sharpening **FastAPI, SQLAlchemy**
-- 💼 Open to **full-stack mobile roles and freelance app builds**
 - 📫 Reach me at **weisleyalmond@outlook.com**
 
----
+## 🤝 Open to Collaborate On
+
+- Cross-platform mobile apps built in Flutter and Dart
+- Backend APIs with FastAPI or Node.js + Express
+- Full-stack builds where I own both the app and the API behind it
+- Freelance or contract app work
+
+![divider](./profile/divider.svg)
 
 ## 🌐 Connect with me
 
@@ -27,7 +34,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:weisleyalmond@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._a.l)
 
----
+![divider](./profile/divider.svg)
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +62,7 @@ I build cross-platform apps end to end. Flutter and Dart on the front, Python or
 
 **Also work with:** JavaScript · Java · HTML/CSS
 
----
+![divider](./profile/divider.svg)
 
 ## 📌 Featured Projects
 
@@ -74,8 +81,7 @@ A behavioural-science web project built with Castro, turning research ideas into
 **Stack:** HTML · CSS
 🔗 [View repo](https://github.com/almondweisley/Project_Castro)
 
----
-
+![divider](./profile/divider.svg)
 
 ## GitHub Stats
 
@@ -84,5 +90,6 @@ A behavioural-science web project built with Castro, turning research ideas into
 ![Top Languages](./profile/top-langs.svg)
 
 ![Streak](./profile/streak.svg)
+
 <!-- Waving footer banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn)
